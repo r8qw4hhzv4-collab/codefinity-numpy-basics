@@ -1,0 +1,4 @@
+import numpy as np
+# Create a 2D numpy array
+array_2d = np.array([[1, 2], [5, 6]], dtype = int)
+print(array_2d)
